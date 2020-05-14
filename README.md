@@ -9,4 +9,4 @@
 * https://journals.aas.org/policy-statement-on-software/
 * https://journals.aas.org/data-guide/
 * https://iopscience.iop.org/article/10.3847/0004-6256/151/2/21
-
+* http://www.eso.org/sci/observing/policies/publications.html
