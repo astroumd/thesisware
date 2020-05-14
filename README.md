@@ -1,5 +1,4 @@
-# thesisware
-various thesis latex templates
+# thesisware:  various thesis latex templates
 
 
 * facilities_software:   an example how a **Facilities and Software** section could be added to a thesis.
