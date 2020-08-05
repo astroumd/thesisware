@@ -14,4 +14,5 @@
 * http://www.eso.org/sci/observing/policies/publications.html
 * http://www.astro.umd.edu/people/allphds_pub.html and
   [DRUM collections in astronomy](https://drum.lib.umd.edu/handle/1903/2215)
-* [Astronomy Thesis Collection in Zenodo](https://zenodo.org/communities/astrothesis) - indexed by ADS!
+* [Astronomy Thesis Collection in Zenodo](https://zenodo.org/communities/astrothesis) - indexed by
+  [ADS](https://ui.adsabs.harvard.edu/)!
