@@ -2,7 +2,7 @@
 
 
 * facilities_software.tex:   an example how a **Facilities and Software** section could be added to a thesis.
-* YYYYLastname.html:  template for the gaia:/www/docs/people/allphds_pub.html file 
+* YYYYLastname.html:  template for the luna:/www/docs/people/allphds_pub.html file 
 
 
 ## References
