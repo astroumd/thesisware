@@ -14,5 +14,6 @@
 * http://www.eso.org/sci/observing/policies/publications.html
 * http://www.astro.umd.edu/people/allphds_pub.html and
   [DRUM collections in astronomy](https://drum.lib.umd.edu/handle/1903/2746)
+* /home/www/docs/resources/internal/protectedfiles/DraftTheses/    - where the draft can go for pre-defense publication
 * [Astronomy Thesis Collection in Zenodo](https://zenodo.org/communities/astrothesis) - indexed by
   [ADS](https://ui.adsabs.harvard.edu/)!
